@@ -2,7 +2,7 @@ title:              Secret_Blog
 email:              tmdqh04033@gmail.com
 description:        Personal GitHub blog to write down your activities
 author:             지승보
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            "/"
 url:                "https://secretjuju.github.io"
 
 # Social Profiles
